@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\CorCPP"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"conio.h": "c"
+		}
+	}
+}
